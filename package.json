@@ -2,10 +2,10 @@
   "name": "transcoding-app",
   "version": "0.1.0",
   "private": true,
-      "scripts": {
-      "dev": "next dev",
-      "build": "next build",
-      "start": "next start"
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.1.2",
@@ -14,9 +14,9 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "lucide-react": "^0.456.0",
-    "next": "15.0.3",
-    "react": "19.0.0-rc-66855b96-20241106",
-    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "next": "^15.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-dropzone": "^14.3.5",
     "tailwind-merge": "^2.5.4",
     "tailwindcss-animate": "^1.0.7"
